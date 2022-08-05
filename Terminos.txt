@@ -1,0 +1,17 @@
+<head>Es la cabeza del documento</head>
+<body>Es el cuerpo del documento</body>
+<h1><h2><h3><h4><h5><h6>Sirve para hacer titulos-subtitulos-texto en distintos tamaños</h1></h2></h3></h4></h5></h6>
+<p>Sirve para hacer un parrafo</p>
+<br>Sirve para hacer un salto de línea
+<hr>Sirve para hacer una línea horizontal
+<ol>Sirve para hacer una lista ORDENADA</ol>
+<ul>Sirve para hacer una lista NO ORDENADA</ul>
+<form>Sirve para hacer formularios</form>
+  <label>sirve para hacer texto dentro del form</label>
+  <input>sirve para generar un input dentro del form<input>
+    atributos:
+      <type="text">texto
+      <type="password">contraseña
+      <type="color">color
+      <type="checkbox">checkbox
+      <type="submit"(sin value)>enviar
